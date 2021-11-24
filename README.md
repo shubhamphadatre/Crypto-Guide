@@ -1,8 +1,8 @@
-# Crypto-Guide is a application developed using react and redux toolkit . This app is used to basically provide the latest trends in the cryptocurrency industry and also analyaze the ups and downs , exchanges and updated news related to top 100 cryptocurrency in the world .
+## Crypto-Guide is a application developed using react and redux toolkit . This app is used to basically provide the latest trends in the cryptocurrency industry and also analyaze the ups and downs , exchanges and updated news related to top 100 cryptocurrency in the world .
 
-# website ----- https://cryptoguide.netlify.app
+## website ----- https://cryptoguide.netlify.app
 
-# Getting Started with Create React App
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
